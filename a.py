@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # تعريف المدخلات المستخدمة للمحاكاة
 inputs = {
-    'temperature': np.arange(00, 101, 1),
+    'temperature': np.arange(0, 101, 1),
     'humidity': np.arange(0, 101, 1),
     'people': np.arange(0, 11, 1)
 }
